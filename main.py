@@ -6,6 +6,7 @@ class Node:
         self.anterior = None
 
 
+
 class lcirculardoble:
     def __init__(self):
         self.primero = None
