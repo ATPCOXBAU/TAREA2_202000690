@@ -57,6 +57,7 @@ if __name__ == '__main__':
     lista.agregar(88)
     lista.agregar(12)
     lista.agregar(47)
+    lista.agregar(78)
 
 
     lista.recorrer()
