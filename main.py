@@ -46,6 +46,7 @@ class lcirculardoble:
                 return True
             else:
                 actual = actual.siguiente
+                #njsfa
                 if actual == self.primero:
                     return False
 
